@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import com.order.demo.model.OrderRequest;
 import com.order.demo.model.Response;
-import com.order.demo.service.OrderdemoService;
+import com.order.demo.service.OrderdemoService; 
 
 /**
  * @author Anuj Kumar
